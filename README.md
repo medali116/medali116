@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Mohamed Ali</h1>
+<h3 align="center">Web Developer | PHP & JavaScript</h3>
 
-<!--
-**medali116/medali116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about **Web Development**
+- 🏗️ I build projects using **MVC Architecture**
+- 🚀 Always learning new technologies
+- 🇹🇳 Based in Tunisia
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🌐 Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+</p>
+
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/MVC-Architecture-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge"/>
+</p>
+
+---
+
+## 📂 Projects
+
+- 🚀 **HumanNova AI** – Event management platform (PHP MVC)
+- 🧩 Web applications with authentication & admin dashboards
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medali116&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medali116&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: *available on request*
+- 🌍 GitHub: [github.com/medali116](https://github.com/medali116)
+
+---
+
+⭐ *Feel free to explore my repositories and support my work!*
