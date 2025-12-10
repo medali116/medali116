@@ -17,7 +17,6 @@
 ## 🎓 Education
 
 - 🏫 **ESPRIT – École Supérieure Privée d’Ingénierie et de Technologies**
-- 💻 Computer Science Student
 - 🔬 Focus: Software Development & Embedded Systems
 
 ---
@@ -61,18 +60,6 @@
 - 🚦 LED control & automation
 - ⏱ Timers, LCD displays, and serial communication
 - 🧠 Logic implementation in C
-
----
-
-## 📄 Curriculum Vitae
-
-<p align="center">
-  <a href="https://drive.google.com/your-cv-link" target="_blank">
-    <img src="https://img.shields.io/badge/View%20CV-00aa55?style=for-the-badge"/>
-  </a>
-</p>
-
- `your-cv-link`
 
 ---
 
