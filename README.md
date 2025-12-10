@@ -61,6 +61,36 @@
 - 📧 Email: *available on request*
 - 🌍 GitHub: [github.com/medali116](https://github.com/medali116)
 
+
+<!-- MATRIX / HACKER HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=JetBrains+Mono&size=28&duration=3000&pause=800&
+  color=00FF41&center=true&vCenter=true&width=850&
+  lines=Access+Granted...;
+  Initializing+Mohamed+Ali+Profile;
+  Full+Stack+Web+Developer;
+  PHP+%7C+JavaScript+%7C+MVC;
+  Welcome+to+the+Matrix+☠️"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HACKER-MODE-00FF41?style=for-the-badge&logo=matrix&logoColor=black"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge"/>
+</p>
+
+---
+
+## ☠️ SYSTEM INFO
+
+```bash
+User      : Mohamed Ali
+Location  : Tunisia 🇹🇳
+Role      : Full Stack Web Developer
+Shell     : /bin/bash
+Status    : Learning • Building • Hacking
+
+
 ---
 
 ⭐ *Feel free to explore my repositories and support my work!*
