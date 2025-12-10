@@ -1,67 +1,94 @@
-<h1 align="center">
-  Mohamed Ali
-</h1>
-
+<!-- ====== ANIMATED HEADER ====== -->
 <p align="center">
-  <strong>Computer Science Student | Embedded & Web Development</strong><br>
-  ESPRIT – Tunisia 🇹🇳
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00AA55&center=true&vCenter=true&width=600&lines=Mohamed+Ali;Computer+Science+Student;Web+%26+Embedded+Developer"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=medali116&style=flat-square&color=00ff88"/>
+  <b>ESPRIT – Tunisia</b> 🇹🇳 <br>
+  Learning • Building • Improving
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=medali116&style=flat-square&color=00aa55"/>
 </p>
 
 ---
 
-## 👤 Profile
+## 🎓 Education
 
-- 🎓 Computer Science Student at **ESPRIT**
-- 💻 Focused on **C Programming, Web Development & Databases**
-- 🔌 Interested in **Embedded Systems & Arduino**
-- 🚀 Motivated, disciplined, and constantly learning
+- 🏫 **ESPRIT – École Supérieure Privée d’Ingénierie et de Technologies**
+- 💻 Computer Science Student
+- 🔬 Focus: Software Development & Embedded Systems
 
 ---
 
 ## 🛠 Skills & Technologies
 
-### Programming Languages
+### Programming
 <p>
-  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/C-111111?logo=c&logoColor=00aa55"/>
+  <img src="https://img.shields.io/badge/PHP-111111?logo=php&logoColor=00aa55"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?logo=javascript&logoColor=00aa55"/>
 </p>
 
-### Web Development
+### Web
 <p>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/HTML5-111111?logo=html5&logoColor=00aa55"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?logo=css3&logoColor=00aa55"/>
 </p>
 
 ### Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/MySQL-111111?logo=mysql&logoColor=00aa55"/>
 </p>
 
-### Embedded Systems
+### Embedded
 <p>
-  <img src="https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Arduino-111111?logo=arduino&logoColor=00aa55"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects
+
+### 🌐 Web Projects
+- ✅ PHP + MySQL dynamic web applications
+- ✅ Authentication systems & CRUD
+- ✅ MVC structure (Controllers / Models / Views)
+
+### 🤖 Embedded Projects (Arduino)
+- 🔌 Sensor-based systems (temperature, motion, light)
+- 🚦 LED control & automation
+- ⏱ Timers, LCD displays, and serial communication
+- 🧠 Logic implementation in C
+
+---
+
+## 📄 Curriculum Vitae
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medali116&show_icons=true&theme=dark&icon_color=00ff88&title_color=00ff88"/>
+  <a href="https://drive.google.com/your-cv-link" target="_blank">
+    <img src="https://img.shields.io/badge/View%20CV-00aa55?style=for-the-badge"/>
+  </a>
+</p>
+
+👉 **بدّل `your-cv-link` بالرابط متاع CV متاعك**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medali116&show_icons=true&theme=dark&title_color=00aa55&icon_color=00aa55"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medali116&theme=dark&ring=00ff88&fire=00ff88"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medali116&theme=dark&ring=00aa55&fire=00aa55"/>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/medali116/medali116/output/github-contribution-grid-snake.svg"/>
@@ -71,11 +98,14 @@
 
 ## 📫 Contact
 
-- GitHub: https://github.com/medali116  
-- Open to **Internships, Academic & Technical Projects**
+- GitHub: https://github.com/medali116
+- Open to:
+  - ✅ Internships
+  - ✅ Academic projects
+  - ✅ Technical collaborations
 
 ---
 
 <p align="center">
-  <sub>Discipline, consistency, and continuous improvement.</sub>
+  <sub>ESPRIT Student — Building solid foundations for real-world systems 🚀</sub>
 </p>
