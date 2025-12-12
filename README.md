@@ -86,6 +86,7 @@
 ## 📫 Contact
 
 - GitHub: https://github.com/medali116
+- e-mail: mohamedali.benameur@esprit.tn
 - Open to:
   - ✅ Internships
   - ✅ Academic projects
