@@ -63,26 +63,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medali116&show_icons=true&theme=dark&title_color=00aa55&icon_color=00aa55"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medali116&theme=dark&ring=00aa55&fire=00aa55"/>
-</p>
-
----
-
-## 🐍 Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/medali116/medali116/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 📫 Contact
 
 - GitHub: https://github.com/medali116
